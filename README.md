@@ -15,27 +15,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Krixybhai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->                        card: '#ffffff',
-                    },
-                    dark: {
-                        bg: '#0d0d0d',
-                        text: '#ffffff',
-                        card: '#1a1a1a',
-                    }
-                },
-                boxShadow: {
-                    'accent': '0 0 15px var(--accent-color)',
-                    'accent-lg': '0 0 25px var(--accent-color)',
-                },
-                keyframes: {
-                    glow: {
-                        '0%, 100%': { textShadow: '0 0 5px var(--accent-color)' },
-                        '50%': { textShadow: '0 0 20px var(--accent-color)' },
-                    },
-                    popIn: {
-                        '0%': { transform: 'scale(0.9)', opacity: '0' },
-                        '100%': { transform: 'scale(1)', opacity: '1' },
-                    },
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->                    },
                     wave: {
                         '0%': { transform: 'scale(1)', opacity: 0.7 },
                         '100%': { transform: 'scale(2.5)', opacity: 0 },
